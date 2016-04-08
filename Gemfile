@@ -21,6 +21,7 @@ gem 'foundation-rails', '~> 5.5'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
+
 group :development do
 	gem 'better_errors'
 	gem 'quiet_assets'
